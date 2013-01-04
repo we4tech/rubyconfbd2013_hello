@@ -1,6 +1,6 @@
 # Rubyconfbd2013Hello
 
-TODO: Write a gem description
+This gem is created for demonstrating gem building process. This is part of RubyConfBD 2013. 
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Know the current RubyConfBd year - +Object.rubyconfbd_year+
+
+Know the current RubyConfBd location - +Object.rubyconfbd_location+
 
 ## Contributing
 
