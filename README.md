@@ -18,9 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-Know the current RubyConfBd year - +Object.rubyconfbd_year+
+Know the current RubyConfBd year - 
 
-Know the current RubyConfBd location - +Object.rubyconfbd_location+
+    Object.rubyconfbd_year
+
+Know the current RubyConfBd location - 
+
+    Object.rubyconfbd_location
 
 ## Contributing
 
